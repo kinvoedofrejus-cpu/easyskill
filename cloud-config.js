@@ -37,7 +37,7 @@
    ------------------------------------------------------------------ */
 
 const CLOUD_CONFIG = {
-  workerUrl: "COLLE_ICI_URL_DE_TON_WORKER",   // ex: https://easyskill-sync.tonpseudo.workers.dev
+  workerUrl: "https://easyskill-sync.ficheprobot.workers.dev",   // ex: https://easyskill-sync.tonpseudo.workers.dev
   syncSecret: ""                               // laisse vide si tu n'as pas défini SYNC_SECRET côté Worker
 };
 
